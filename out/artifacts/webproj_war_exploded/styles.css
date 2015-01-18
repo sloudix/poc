@@ -1,0 +1,23 @@
+.message { color: green; text-align: center; }
+
+h1
+{
+    width: 100%;
+    align-content: center;
+    text-emphasis-color: #31708f;
+    text-align: center;
+    margin: auto;
+}
+body
+{
+    width: 90%;
+    align-content: center;
+    margin: auto;
+}
+.mainSection {
+    width: 75%;
+    align-content: center;
+    text-align: justify;
+    padding: 2px;
+    margin: auto;
+}
